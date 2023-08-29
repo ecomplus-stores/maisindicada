@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
+    "text": "",
     "link": "/promotion"
   },
   "contacts_stripe": {
@@ -18,13 +18,15 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/cachacas?Cachaças"
+    ],
     "random": 6,
     "full_width": false
   },
   "centralized_logo": false,
   "desktop_megamenu": false,
-  "search_input": true,
+  "search_input": false,
   "alphabetical_order_submenu": false,
   "full_width_submenu": false
 }
