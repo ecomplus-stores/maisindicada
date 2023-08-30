@@ -1,6 +1,6 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "01",
+  "meta_description": "01",
   "sections": [
     {
       "type": "banner-slider",
@@ -25,7 +25,9 @@
         "64ef4a572cd6b65959328e31:categories:Ouro:/ouro",
         "64ef4a902cd6b65959328ee0:categories:Prata:/prata"
       ],
-      "sort": "slug"
+      "sort": "slug",
+      "shelfs_title": "01",
+      "autoplay": 0
     },
     {
       "type": "dynamic-showcase",
