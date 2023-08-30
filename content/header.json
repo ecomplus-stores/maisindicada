@@ -14,11 +14,7 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/licor?Licor",
-      "/fino?Fino",
-      "/cremoso?Cremoso"
-    ],
+    "featured": [],
     "random": 6,
     "full_width": false
   },
