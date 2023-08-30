@@ -1,6 +1,6 @@
 {
-  "meta_title": "01",
-  "meta_description": "01",
+  "meta_title": "",
+  "meta_description": "",
   "sections": [
     {
       "type": "banner-slider",
@@ -17,7 +17,7 @@
     {
       "type": "shelfs-nav",
       "shuffle": false,
-      "limit": 8,
+      "limit": "",
       "page": 1,
       "collection_ids": [
         "64ef33092cd6b65959325e67:categories:Cremoso:/cremoso",
@@ -26,7 +26,7 @@
         "64ef4a902cd6b65959328ee0:categories:Prata:/prata"
       ],
       "sort": "slug",
-      "shelfs_title": "01",
+      "shelfs_title": "",
       "autoplay": 0
     },
     {
