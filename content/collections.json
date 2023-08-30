@@ -19,6 +19,20 @@
     {
       "type": "document-description",
       "enabled": true
+    },
+    {
+      "type": "banners-grid"
+    },
+    {
+      "type": "shelfs-nav",
+      "shuffle": false,
+      "limit": 8,
+      "page": 1,
+      "collection_ids": [
+        "64ef32e72cd6b65959325e4c:categories:Cachaça:/cachaca"
+      ],
+      "sort": "slug",
+      "shelfs_title": "Cachaça"
     }
   ]
 }
