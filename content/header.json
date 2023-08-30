@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
     "text": "",
-    "link": "/promotion"
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
@@ -27,6 +27,6 @@
   "centralized_logo": false,
   "desktop_megamenu": false,
   "search_input": false,
-  "alphabetical_order_submenu": false,
+  "alphabetical_order_submenu": true,
   "full_width_submenu": false
 }
