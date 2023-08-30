@@ -15,12 +15,12 @@
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/icone-grande.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#63654a",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/icone-grande.png",
   "store_id": 51450,
   "description": "Cachaça e licores artesanais\n",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/icone-grande.png"
 }
