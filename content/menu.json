@@ -3,6 +3,6 @@
     "cachacas"
   ],
   "alphabetical_order": true,
-  "phone_wpp": true,
+  "phone_wpp": false,
   "socials": true
 }
